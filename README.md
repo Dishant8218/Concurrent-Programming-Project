@@ -1,25 +1,24 @@
-# Concurrent-Programming-Project
 # Team 3
 
 Members:
+- Dishant Koli - 1002067615
 - Harshada Padwal - 1002080814
 - Mansi Patel - 1001874295
 - Niral Shah - 1002061390
-- Dishant Koli - 1002067615
 
 ## Folder Structure
 
-This folder contains the following sub-folders:
+This repository contains the following folders:
 
-- clientFileHolder
-- clientFileHolder2
-- serverFileHolder
-- src
+- `clientFileHolder`
+- `clientFileHolder2`
+- `serverFileHolder`
+- `src`
 
-Additionally, there are 2 files for testing:
+Additionally, there are two files for testing:
 
-- HW1.pdf
-- video_small.wmv
+- `HW1.pdf`
+- `video_small.wmv`
 
 ## Setup Instructions
 
@@ -45,4 +44,16 @@ To run the program, follow these steps:
 ## Testing
 
 After setting up and running the program, you can proceed to run test cases to validate the functionality.
+
+## Screenshots
+
+Upload SS of server  ![PHOTO-2023-05-05-22-49-12](https://github.com/Dishant8218/Concurrent-Programming-Project/assets/119984807/dbb804e9-fa30-4d90-b57c-4af791a0b4e7)
+
+Upload SS of client ![PHOTO-2023-05-05-22-51-35](https://github.com/Dishant8218/Concurrent-Programming-Project/assets/119984807/b13de74d-8d2d-4e09-85c2-698a06627165)
+
+Multicast Sending SS of Server ![PHOTO-2023-05-05-22-51-35 2](https://github.com/Dishant8218/Concurrent-Programming-Project/assets/119984807/c9051197-a7be-4e7a-b026-5bed48c29d8c)
+
+Delta Sync of server SS  ![PHOTO-2023-05-05-22-52-45](https://github.com/Dishant8218/Concurrent-Programming-Project/assets/119984807/ec9b552a-3f42-40d5-a3ad-344b76071a5d)
+
+
 
