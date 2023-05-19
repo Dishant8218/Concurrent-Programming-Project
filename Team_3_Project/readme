@@ -1,0 +1,41 @@
+Team 3
+Harshada Padwal		1002080814
+Mansi Patel			1001874295
+Niral Shah			1002061390
+Dishant Koli		1002067615
+
+
+
+This Folder Contains 4 folders.
+>> clientFileHolder
+>> clientFileHolder2
+>> serverFileHolder
+>> src
+
+This folder contains 2 files for testing.
+>> HW1.pdf
+>> video_small.wmv
+
+src contains all java files.
+Before run any file you have to change paths at 3 places in Constants.java file
+1.public static final String  CLIENT_FILE_ROOT = "clientFileHolder 1 path";
+  - right click on clientFileHolder folder and copy absolute path and paste over here
+2.public static final String  CLIENT_FILE_ROOT2 = "clientFileHolder 2 path";
+  - right click on clientFileHolder2 folder and copy absolute path and paste over here
+3.public static final String  SEVER_FILE_ROOT = "serverFileHolder  path";
+  - right click on serverFileHolder folder and copy absolute path and paste over here
+
+
+go to src directory in terminal.
+1. To compile - javac *.java
+2. To run Files in different terminal
+    - java Server (in Terminal 1)
+    - java Client (in Terminal 2)
+    - java Client (in Terminal 3)
+
+
+
+After This run Server.java
+Client.java in another terminal. and enter '1'
+In 3rd terminal again run  Client.java and enter '2'
+Now start start to run all test cases.
